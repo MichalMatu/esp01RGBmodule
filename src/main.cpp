@@ -2,7 +2,7 @@
 // Fastled constants
 #define DATA_PIN 2
 #define COLOR_ORDER GRB
-#define NUM_LEDS 256
+#define NUM_LEDS 64
 #define LED_TYPE WS2812B
 #define BRIGHTNESS 64
 CRGB leds[NUM_LEDS];
